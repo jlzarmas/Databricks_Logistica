@@ -11,9 +11,18 @@ Este projeto documenta a construção de um pipeline completo de dados no **Data
 
 > **Importante:** os dados usados neste projeto são **dados de teste**, criados e organizados para fins de aprendizado, demonstração técnica e construção de portfólio.
 
+## 📌 Origem dos dados
+
+Os dados utilizados neste projeto foram fornecidos no contexto de um exercício da **Alex Lage School**, dentro de um programa de extensão universitária da **Anhanguera**, na área de Análise de Dados.
+
+Tratam-se de dados de exemplo (sample), utilizados exclusivamente para fins de aprendizado, demonstração técnica e construção de portfólio.
+
+Este projeto não representa dados reais de empresas ou operações logísticas.
+
+
 O cenário de negócio é de uma empresa de logística fictícia chamada **Next Cargas**.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Objetivo do projeto
 
