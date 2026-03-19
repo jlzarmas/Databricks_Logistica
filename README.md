@@ -19,7 +19,10 @@ Tratam-se de dados de exemplo (sample), utilizados exclusivamente para fins de a
 
 Este projeto não representa dados reais de empresas ou operações logísticas.
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 O cenário de negócio é de uma empresa de logística fictícia chamada **Next Cargas**.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
